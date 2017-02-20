@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.phonegap.whosthatpokemon"
+        }
+    }
+}
